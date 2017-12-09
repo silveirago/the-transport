@@ -4,7 +4,7 @@
   MIDI_CREATE_DEFAULT_INSTANCE();
 */
 // If using with ATmega32U4 - Micro, Pro Micro, Leonardo...
-#include "MIDIUSB.h"
+#include "MIDIUSB.h" // Download it here: https://github.com/arduino-libraries/MIDIUSB
 #include "Keyboard.h"
 
 /////////////////////////////////////////////
