@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
      inkscape:cx="497.60794"
-     inkscape:cy="733.90332"
+     inkscape:cy="790.47186"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,9 +57,12 @@
      transform="translate(0,27.637855)">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#999999;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 662.86713,129.57148 c 0,-2.9369 -2.36388,-5.30078 -5.30078,-5.30078 l -0.0137,0 -10.64063,0 0,-60.93945 c 0,0 -0.002,0 -0.002,0 -48.3605,12.3811 -76.2119,12.5551 -123.9707,0 0,0 -0.002,0 -0.002,0 l 0,60.93945 -10.64063,0 -0.0137,0 c -2.9369,0 -5.30274,2.36388 -5.30274,5.30078 l 0,60.23633 c 0,2.9369 2.36584,5.30078 5.30274,5.30078 l 0.0137,0 10.64063,0 0,94.16211 -10.64063,0 -0.0137,0 c -2.9369,0 -5.30274,2.36388 -5.30274,5.30078 l 0,60.23633 c 0,2.9369 2.36584,5.30078 5.30274,5.30078 l 0.0137,0 10.64063,0 0,60.93945 c 0,0 0,0.002 0,0.002 0,0 0.002,0 0.002,0 48.3602,-12.3819 76.2123,-12.5547 123.9707,0 0,0 0.002,-0.002 0.002,-0.002 l 0,-60.93945 10.64063,0 0.0137,0 c 2.9369,0 5.30078,-2.36388 5.30078,-5.30078 l 0,-60.23633 c 0,-2.9369 -2.36388,-5.30078 -5.30078,-5.30078 l -0.0137,0 -10.64063,0 0,-94.16211 10.64063,0 0.0137,0 c 2.9369,0 5.30078,-2.36388 5.30078,-5.30078 l 0,-60.23633 z"
-       id="path11170" />
+       id="path11170"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
        rx="7.8261561"
@@ -69,7 +72,10 @@
        height="42.480907"
        width="53.110832"
        id="rect9714"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        ry="11.616755"
        y="246.22971"
@@ -77,9 +83,9 @@
        height="201.18408"
        width="426.18408"
        id="rect9828"
-       style="fill:#999999;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        rx="11.616755"
-       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut.png"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <circle
@@ -87,17 +93,17 @@
        cy="261.24554"
        cx="91.753128"
        id="circle9832"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut.png"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <circle
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle9834"
        cx="487.90555"
        cy="261.24554"
        r="6.1884108"
-       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut.png"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <circle
@@ -105,22 +111,22 @@
        cy="432.39798"
        cx="487.90555"
        id="circle9836"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut.png"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <circle
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle9838"
        cx="91.753128"
        cy="432.39798"
        r="6.1884108"
-       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut.png"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        transform="matrix(0,1,1,0,0,0)"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect9842"
        width="70.83873"
        height="10.602514"
@@ -128,12 +134,12 @@
        y="481.71713"
        ry="0.0004371657"
        rx="0.0004371657"
-       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut.png"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        rx="0.0004371657"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect9846"
        width="70.83873"
        height="10.602514"
@@ -141,7 +147,7 @@
        y="-267.43396"
        ry="0.0004371657"
        transform="scale(-1,-1)"
-       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut.png"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -152,9 +158,9 @@
        height="10.602514"
        width="70.83873"
        id="rect9848"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="scale(-1,-1)"
-       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut.png"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -165,14 +171,14 @@
        height="10.602514"
        width="70.83873"
        id="rect9852"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        rx="0.0004371657"
-       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut.png"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        transform="scale(-1,-1)"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect9854"
        width="70.83873"
        height="10.602514"
@@ -180,7 +186,7 @@
        y="-436.81207"
        ry="0.0004371657"
        rx="0.0004371657"
-       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut.png"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
@@ -191,68 +197,92 @@
        height="10.602514"
        width="70.83873"
        id="rect9856"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(0,1,1,0,0,0)"
-       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut.png"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <circle
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle9858"
        cx="219.69472"
        cy="291.48447"
        r="6.1884108"
-       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut.png"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        id="path9899"
        d="m 822.79595,129.57368 c 0,-2.9369 -2.36388,-5.30078 -5.30078,-5.30078 l -0.0137,0 -10.64063,0 0,-60.939454 c 0,0 -0.002,0 -0.002,0 -48.3605,12.3811 -76.2119,12.5551 -123.9707,0 0,0 -0.002,0 -0.002,0 l 0,60.939454 -10.64063,0 -0.0137,0 c -2.9369,0 -5.30273,2.36388 -5.30273,5.30078 l 0,60.23633 c 0,2.9369 2.36584,5.30078 5.30273,5.30078 l 0.0137,0 10.64063,0 0,94.16211 -10.64063,0 -0.0137,0 c -2.9369,0 -5.30273,2.36388 -5.30273,5.30078 l 0,60.23633 c 0,2.9369 2.36584,5.30078 5.30273,5.30078 l 0.0137,0 10.64063,0 0,60.93943 c 0,0 0,0 0,0 0,0 0.002,0 0.002,0 48.3602,-12.3819 76.2123,-12.5547 123.9707,0 0,0 0.002,0 0.002,0 l 0,-60.93943 10.64063,0 0.0137,0 c 2.9369,0 5.30078,-2.36388 5.30078,-5.30078 l 0,-60.23633 c 0,-2.9369 -2.36388,-5.30078 -5.30078,-5.30078 l -0.0137,0 -10.64063,0 0,-94.16211 10.64063,0 0.0137,0 c 2.9369,0 5.30078,-2.36388 5.30078,-5.30078 l 0,-60.23633 z"
-       style="fill:#999999;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
-       style="fill:#999999;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 974.56286,239.21959 -38.43949,0 0,-10.64062 0,-0.0156 c 0,-2.9369 -2.36581,-5.30078 -5.3027,-5.30078 l -60.23632,0 c -2.93689,0 -5.30078,2.36388 -5.30078,5.30078 l 0,0.0137 0,0.002 0,10.64062 -38.43945,0 c 12.3811,48.3605 12.5551,76.21387 0,123.97262 l 38.43945,0 0,10.6407 0,0.0156 c 0,2.9369 2.36389,5.3008 5.30078,5.3008 l 60.23632,0 c 2.9369,0 5.3027,-2.3639 5.3027,-5.3008 l 0,-0.0156 0,-10.6407 38.43949,0 c -12.38189,-48.36015 -12.5547,-76.21422 0,-123.97262 z"
        id="path9187"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        id="path9905"
        d="m 974.56288,79.290446 -38.43945,0 0,-10.64062 0,-0.0156 c 0,-2.9369 -2.36584,-5.30078 -5.30274,-5.30078 l -60.23634,0 c -2.93689,0 -5.30078,2.36388 -5.30078,5.30078 l 0,0.0137 0,0.002 0,10.64062 -38.43945,0 c 12.3811,48.360504 12.5551,76.213904 0,123.972604 l 38.43945,0 0,10.6407 0,0.016 c 0,2.9369 2.36389,5.3008 5.30078,5.3008 l 60.23634,0 c 2.9369,0 5.30274,-2.3639 5.30274,-5.3008 l 0,-0.016 0,-10.6407 38.43945,0 c -12.3819,-48.3601 -12.5547,-76.2142 0,-123.972605 z"
-       style="fill:#999999;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       style="fill:#999999;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7084"
        width="426.18408"
        height="201.18408"
        x="76.73732"
        y="40.969879"
        ry="11.616755"
-       rx="11.616755" />
+       rx="11.616755"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle6262"
        cx="91.753128"
        cy="55.985718"
-       r="6.1884108" />
+       r="6.1884108"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
        r="6.1884108"
        cy="55.985718"
        cx="487.90555"
        id="circle9052"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle9054"
        cx="487.90555"
        cy="227.13815"
-       r="6.1884108" />
+       r="6.1884108"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
        r="6.1884108"
        cy="227.13815"
        cx="91.753128"
        id="circle9056"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        rx="0.0004371657"
        ry="0.0004371657"
@@ -261,8 +291,11 @@
        height="10.602514"
        width="70.83873"
        id="rect9265"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0,1,1,0,0,0)" />
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0,1,1,0,0,0)"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        transform="scale(-1,-1)"
        ry="0.0004371657"
@@ -271,28 +304,37 @@
        height="10.602514"
        width="70.83873"
        id="rect9291"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       rx="0.0004371657" />
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       rx="0.0004371657"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        transform="scale(-1,-1)"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect9293"
        width="70.83873"
        height="10.602514"
        x="-242.74873"
        y="-62.174141"
        ry="0.0004371657"
-       rx="0.0004371657" />
+       rx="0.0004371657"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        rx="0.0004371657"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect9297"
        width="70.83873"
        height="10.602514"
        x="-407.74869"
        y="-231.55225"
        ry="0.0004371657"
-       transform="scale(-1,-1)" />
+       transform="scale(-1,-1)"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        rx="0.0004371657"
        ry="0.0004371657"
@@ -301,58 +343,82 @@
        height="10.602514"
        width="70.83873"
        id="rect9299"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="scale(-1,-1)" />
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,-1)"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        transform="matrix(0,1,1,0,0,0)"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect9301"
        width="70.83873"
        height="10.602514"
        x="106.14261"
        y="87.339035"
        ry="0.0004371657"
-       rx="0.0004371657" />
+       rx="0.0004371657"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle8986"
        cx="141.56194"
        cy="-167.66167"
        r="53.136314"
-       transform="matrix(0,1,-1,0,0,0)" />
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
        transform="matrix(0,1,-1,0,0,0)"
        r="53.136314"
        cy="-289.82941"
        cx="141.56194"
        id="circle9005"
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle9013"
        cx="141.56194"
        cy="-411.99707"
        r="53.136314"
-       transform="matrix(0,1,-1,0,0,0)" />
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.07086612;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect10059"
        width="13.205905"
        height="13.205905"
        x="283.22644"
        y="204.61008"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
-       style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.07086613;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.07086614;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 164.30823,204.57534 0,13.27539 0,-13.27539 z m 0.0783,0.0328 6.63896,6.63896 -6.63896,-6.63896 z m 6.59101,6.6213 -6.59101,6.58849 6.59101,-6.58849 z"
        id="path10061"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.07086613;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.07086614;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path10257"
        cx="411.99707"
        cy="211.21303"
-       r="6.6029525" />
+       r="6.6029525"
+       inkscape:export-filename="/Users/gustavosilveira/Desktop/tranport pcb cut 2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
